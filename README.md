@@ -1,2 +1,3 @@
 # PRODIGY_DS_TASK05
-Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 5of my internship journey..
+TASK OVERVIEW:Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
+
